@@ -1,0 +1,189 @@
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+  }
+   */
+  .itemLarge{
+    width: 570px;
+    height: 600px;
+    background-color: #0D0D0D;
+    margin-left: 10%;
+   position: relative;
+   color: white;
+  
+  }
+
+  .itemLargeImg{
+    width: 650px;
+    height: 650px;
+    display: flex;
+    margin-top: 2%;
+    object-fit: contain;
+    position: absolute;
+    right: 10px;
+  }
+
+  .item2 {
+    width: 570px;
+    height: 284px;
+    margin-left: 3%;
+    position: relative;
+    background-color: #0D0D0D;
+    color: white;
+  }
+  
+  .item14{
+    display: flex;
+    width: 100%;
+  }
+ 
+  .item2Img {
+    width: 432px;
+    height: 284px;
+    object-fit: contain;
+    
+  }
+
+  .item34{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 3%;
+  }
+
+  .item3 {
+    width: 270px;
+    height: 284px;
+    position: relative;
+    background-color: #000000d2;
+    color: white;
+    margin-right: 5%;
+  }
+  
+ 
+  .item3Img {
+    width: 340px;
+    height: 340px;
+   object-fit: contain;
+  }
+  
+  .item4 {
+    width: 270px;
+    height: 284px;
+    position: relative;
+    background-color: #000000d2;
+    color: white;
+    
+  }
+  
+ 
+  .item4Img {
+    width: 250px;
+    height: 250px;
+   object-fit: contain;
+   position: absolute;
+   top: 20px;
+  }
+
+  .text {
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+  }
+
+  .textH2{
+    margin: 15px 0px;
+  }
+
+  .textP{
+    margin: 10px 0px;
+  }
+
+  .textH3{
+    margin: 15px 0px;
+  }
+
+  .text2 {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+  }
+
+  .text2H2{
+    margin: 15px 0px;
+  }
+
+  .text2P{
+    margin: 10px 0px;
+  }
+
+  .text2H3{
+    margin: 15px 0px;
+  }
+
+
+  .text3 {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+  }
+
+  .text3H2{
+    margin: 10px 0px;
+  }
+
+  .text3P{
+    margin: 10px 0px;
+  }
+
+  .text3H3{
+    margin: 10px 0px;
+  }
+
+
+  .text4 {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+  }
+
+  .text4H2{
+    margin: 10px 0px;
+  }
+
+  .text4P{
+    margin: 10px 0px;
+  }
+
+  .text4H3{
+    margin: 5px 0px;
+  }
+
+
+  h3 {
+  border-bottom: 1px solid white;
+  display: inline-block;
+  }
+  
+ 
+
+Img{
+    width: 570px;
+    height: 600px;
+    background-color: black;
+}
+
+.Img1{
+    width: 511px;
+    height: 511px;
+    position: relative;
+    
+}
+
+.ImgH1{
+    color: #fff;
+    position: absolute;
+    padding: 10%;
+}
+

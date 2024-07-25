@@ -1,0 +1,63 @@
+.statistics {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+
+.statisticsItem {
+    width: 270px;
+    height: 230px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.statisticsItem:hover {
+    background-color: #DB4444;
+    transition: all 0.8s ease-in-out;
+    cursor: pointer;
+}
+
+.statisticsItem:hover .quantity {
+    color: #fff;
+}
+
+.statisticsItem:hover .aboutService {
+    color: #fff;
+}
+
+.statisticsItem:hover .statisticsIcon {
+    background-color: #fff;
+    color: #000;
+}
+
+.quantity {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.aboutService {
+    font-size: 16px;
+    font-family: "Poppins";
+    font-weight: 400;
+    padding: 10px 0px;
+}
+
+.statisticsIcon {
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    color: #fff;
+    border-radius: 50px;
+    border: 7px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+}

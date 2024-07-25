@@ -1,0 +1,68 @@
+.login {
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+
+.logImg {
+  width: 750px;
+  height: 650px;
+  margin-top: 7%;
+}
+
+.text {
+  margin-left: 15%;
+}
+
+.textH1 {
+  padding-bottom: 8%;
+}
+
+.textInput {
+  border: none;
+  border-bottom: 1px solid black;
+  display: block;
+  margin-top: 10%;
+  outline: none;
+  background: #fff;
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.error{
+border-bottom: 1px solid red;
+}
+
+.forget {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #DB4444;
+  margin-top: 20px;
+}
+
+.forgetButton {
+  background-color: #DB4444;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 3% 10%;
+  cursor: pointer;
+}
+
+.forgetP { 
+  background-color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #DB4444;
+  cursor: pointer;
+}
+
+
+
+.errorText{
+  font-size: 14px;
+  padding-top: 5px;
+  color: red;
+ }

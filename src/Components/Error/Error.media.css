@@ -1,0 +1,27 @@
+@media screen and (max-width: 590px) {
+    #error-h1 {
+     font-size: 70px;
+    }
+
+    #error-p {
+        font-size: 13px;
+    }
+
+    #error-btn {
+        padding: 15px 25px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #error-h1 {
+     font-size: 50px;
+    }
+
+    #error-p {
+        font-size: 10px;
+    }
+
+    #error-btn {
+        padding: 10px 20px;
+    }
+}

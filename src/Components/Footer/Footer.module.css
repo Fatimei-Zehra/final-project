@@ -1,0 +1,145 @@
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 80px 0px;
+    margin-top: 80px;
+}
+
+
+.footerItems {
+    display: flex;
+    justify-content: space-between;
+    align-items: self-start;
+    /* gap: 30px; */
+}
+
+.appStores {
+    display: flex;
+    flex-direction: column;
+    width: 104px;
+    margin-left: 10px;
+}
+
+.footerImages {
+    display: flex;
+    align-items: center;
+}
+
+
+.footerLogo {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Inter";
+    letter-spacing: 2px;
+}
+
+.subscribeText {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Poppins";
+    padding: 20px 0px;
+}
+
+
+.firstOrderSale {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-bottom: 10px;
+}
+
+.inputForEmail {
+    background-color: #000;
+    padding: 12px 5px;
+    border: none;
+    outline: none;
+    /* padding: 10px 10px; */
+    color: #fff;
+}
+
+.inputForEmail::placeholder {
+    font-family: "Poppins";
+}
+
+.formForEmail {
+    border: 1px solid rgb(250, 250, 250);
+    display: flex;
+    align-items: center;
+}
+
+.footerTittle {
+    font-size: 19px;
+    font-family: "Poppins";
+    font-weight: 500;
+    padding-bottom: 25px;
+}
+
+.footerList {
+    font-size: 16px;
+    font-family: "Poppins";
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.newUserSuggest {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-bottom: 7px;
+    color: grey;
+}
+
+.footerIcons {
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-top: 20px;
+    align-items: flex-start;
+}
+
+.socialIcons {
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+
+.footerListItems {
+    padding-right: 20px;
+}
+
+.socialIcons:hover {
+    transition: all 0.95s;
+    transform: rotate(360deg);
+}
+
+.footerList:hover {
+   color: grey;
+    cursor: pointer;
+}
+
+.socialIcons:hover.facebook {
+    color: #4267B2 !important;
+}
+
+.socialIcons:hover.twitter {
+    color: 	#1DA1F2 !important;
+}
+
+.socialIcons:hover.instagram {
+    color: #833ab4;
+    color: linear-gradient(to right,
+            #833ab4, #fd1d1d, #fcb045)
+}
+
+.socialIcons:hover.linkedin {
+    color: #0077b5 !important;
+}
+
+.footerLatItem{
+    display: flex;
+    flex-direction: column;
+}
+
+.footerloginRegister{
+    display: flex;
+}

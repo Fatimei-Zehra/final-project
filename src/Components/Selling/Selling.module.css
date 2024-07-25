@@ -1,0 +1,198 @@
+.rectangle {
+    display: flex;
+    gap: 10px;
+    margin: 0px auto;
+
+    align-items: center;
+}
+.firstSelling{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.selling {
+    margin-top: 80px;
+}
+
+.frame {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+
+    margin: 0 auto;
+}
+
+.rectangle h1 {
+    color: #DB4444;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+
+.red {
+    border: 1px solid #DB4444;
+    width: 20px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #DB4444;
+}
+
+.browsing {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+.slider {
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+}
+
+
+
+
+.sliderBoxes {
+    border-radius: 4px;
+    background-color: #F5F5F5;
+    width: 270px;
+    height: 250px;
+    position: relative;
+}
+
+
+.sliderBoxes img {
+    width: 170px;
+    height: 150px;
+    top: 35px;
+    left: 40px;
+    position: absolute;
+}
+
+.saleProcent {
+    background-color: #DB4444;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+    width: 55px;
+    height: 26px;
+    top: 12px;
+    left: 12px;
+    padding: 4px 12px 4px 12px;
+    gap: 10px;
+    position: absolute;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.svg {
+    top: 5px;
+    left: 4px;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 50px;
+    color: #000000;
+    width: 30px;
+    height: 30px;
+
+}
+
+.iconsBox {
+    display: flex;
+    margin: 15px 0;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+
+}
+
+.price {
+    display: flex;
+    /* gap: 20px; */
+    align-items: center;
+}
+
+.line {
+    text-decoration: line-through;
+    color: grey;
+    font-weight: 500;
+}
+
+.firstPrice {
+    font-size: 18px;
+    font-family: 'Poppins';
+    color: #DB4444;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.starIcons {
+    display: flex;
+}
+
+.downSideText {
+    font-size: 16px;
+    font-family: 'Poppins';
+    padding: 10px 0px;
+    text-transform: capitalize;
+}
+
+.star {
+    color: #FFAD33;
+}
+
+.starColor {
+    color: #bfbfbf;
+}
+
+.infoDown {
+    display: flex;
+    justify-content: space-between;
+    width: 9%;
+    margin: 10px 0px;
+}
+
+.numberDown span {
+    color: #6084A4;
+    font-weight: 500;
+}
+
+.upSide button {
+    background-color: #000;
+    color: #fff;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: none;
+    width: 270px;
+    height: 41px;
+    top: 209px;
+    border-radius: 0px 0px 4px 4px;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+.view button {
+    cursor: pointer;
+    background-color: #DB4444;
+    color: #FFF;
+    width: 159px;
+    height: 56px;
+    padding: 16px 48px 16px 48px;
+    gap: 10px;
+    border-radius: 4px;
+    border: none;
+
+}
+

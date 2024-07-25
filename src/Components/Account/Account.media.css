@@ -1,0 +1,193 @@
+@media (max-width: 1350px) {
+    #content {
+      padding: 30px;
+    }
+  
+    #sidebar {
+      padding: 30px;
+    }
+  
+    #edit {
+      padding: 30px;
+    }
+
+    #firstName{
+        width: 150%;
+       }
+   
+       #lastName{
+           width: 150%;
+       }
+   
+       #email{
+           width: 150%;
+       }
+   
+       #address{
+           width: 150%;
+       }
+   
+       #currentPassword{
+           width: 100%;
+       }
+   
+       #newPassword{
+           width: 100%;
+       }
+
+       #confirmPassword{
+        width: 100%;
+       }
+  
+    #btn {
+      justify-content: flex-end;
+    }
+  
+    #cancel, #submit {
+      width: auto;
+    }
+  }
+
+
+@media (max-width: 1024px) {
+    #content {
+      padding: 30px;
+    }
+  
+    #sidebar {
+      padding: 30px;
+    }
+  
+    #edit {
+      padding: 30px;
+    }
+
+    #firstName{
+        width: 100%;
+       }
+   
+       #lastName{
+           width: 100%;
+       }
+   
+       #email{
+           width: 100%;
+       }
+   
+       #address{
+           width: 100%;
+       }
+   
+       #currentPassword{
+           width: 100%;
+       }
+   
+       #newPassword{
+           width: 100%;
+       }
+
+       #confirmPassword{
+        width: 100%;
+       }
+  
+    #btn {
+      justify-content: flex-end;
+    }
+  
+    #cancel, #submit {
+      width: auto;
+    }
+  }
+
+  @media (max-width: 767px) {
+    #content {
+      padding: 20px;
+    }
+  
+    #sidebar {
+      padding: 20px;
+      border-bottom: 1px solid #dddddd;
+    }
+  
+    #edit {
+      padding: 20px;
+    }
+  
+    #item {
+      flex-direction: column;
+    }
+  
+    #group {
+      width: 100%;
+    }
+  
+    #btn {
+      flex-direction: column;
+    }
+  
+    #cncl, #btns {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    #cancel {
+      width: 90%;
+      padding: 8px;
+      margin-left: 15%;
+    }
+
+    #submit {
+        width: 90%;
+        padding: 8px;
+    }
+
+  }
+  
+
+  @media (max-width: 450px) {
+    #content {
+      flex-direction: column;
+      padding: 10px;
+    }
+  
+    #sidebar {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-bottom: 1px solid #dddddd;
+    }
+  
+    #edit {
+      width: 100%;
+      padding: 10px;
+    }
+  
+    #item {
+      flex-direction: column;
+    }
+  
+    #group {
+      width: 100%;
+    }
+  
+    #btn {
+      flex-direction: column;
+    }
+  
+    #cncl, #btns {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    #cancel {
+        width: 80%;
+        padding: 8px;
+        margin-left: 15%;
+      }
+  
+      #submit {
+          width: 80%;
+      }
+  
+  }
+  

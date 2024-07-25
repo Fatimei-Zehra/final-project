@@ -1,0 +1,22 @@
+
+
+.sectionItems{
+    display: flex;
+    justify-content: space-between;
+    gap: 3%;
+    margin-top: 30px;
+    position: relative;
+}
+
+.sliderBox{
+    background-color: #000;
+    width: 100%;
+    height: 410px;
+    
+    padding: 33px 64px;
+    color: #fff;
+} 
+.sectionLeftItems{ 
+   display: flex;
+}
+

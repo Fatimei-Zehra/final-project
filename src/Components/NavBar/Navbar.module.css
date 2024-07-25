@@ -1,0 +1,25 @@
+.nav {
+    width: 60%;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
+
+.listLi {
+    margin-right: 8%;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+
+.linkName{
+    color: #000;
+}
+
+.linkName:hover{
+    color: red;
+}

@@ -1,0 +1,155 @@
+.route {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.route li {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    color: #7f7f7f;
+    transition: all 0.3s ease-in-out;
+}
+
+.route li:hover {
+    color: #000;
+    transition: all 0.3s ease-in-out;
+}
+
+.billing {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 80px;
+
+}
+
+.formSide form {
+    display: flex;
+    flex-direction: column;
+}
+
+.formSide input {
+    width: 560px;
+    height: 50px;
+    border-radius: 4px;
+    margin: 5px 0px;
+}
+
+.inputs {
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.formSide label {
+    font-family: Poppins;
+    font-size: 16px;
+    color: #7f7f7f;
+}
+
+label span {
+    font-family: Poppins;
+    font-size: 16px;
+    color: #DB4444;
+
+}
+
+.checkbox p {
+    font-family: Poppins;
+    font-size: 16px;
+
+
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+/* input[type=checkbox] {
+    width: 20px;
+    height: 20px;
+    accent-color: #DB4444;
+} */
+
+.consol {
+    width: 50px;
+    height: 45px;
+
+    margin-right: 20px;
+}
+
+.mainPart {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upFrame {
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.price p {
+
+    font-family: Poppins;
+    font-size: 16px;
+
+
+}
+
+.price span {
+    font-family: Poppins;
+    font-size: 16px;
+
+
+}
+
+.downFrame {
+    display: flex;
+    align-items: center;
+}
+
+.infoMain {
+    margin: 40px 0px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0px;
+
+}
+
+.info p {
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.info span {
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.line {
+    width: 422px;
+    margin-bottom: 12px;
+    display: inline-block;
+    opacity: 40%;
+    border: 1px solid gray;
+}
+
+
+
+.radio {
+    gap: 20px;
+}

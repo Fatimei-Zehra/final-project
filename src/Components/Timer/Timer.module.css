@@ -1,0 +1,64 @@
+.rectangle {
+    display: flex;
+    gap: 10px;
+    margin: 0 auto;
+    margin-top: 80px;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.frame {
+    display: flex;
+    gap: 50px;
+    align-items: end;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rectangleText {
+    color: #DB4444;
+    font-size: 16px;
+}
+
+.flash h1 {
+    font-family: 'Inter';
+}
+
+.timerSideP {
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.timerSideSpan {
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: bold;
+}
+
+.pair {
+    color: #E07575;
+    font-size: 30px;
+    margin-top: 11px;
+    margin-top: 11px;
+
+}
+
+.red {
+    border: 1px solid #DB4444;
+    width: 20px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #DB4444;
+}
+
+
+
+.timer {
+    display: flex;
+    align-items: center;
+    width: 21%;
+    /* justify-content: space-between; */
+    gap: 20px;
+}

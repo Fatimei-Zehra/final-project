@@ -1,0 +1,41 @@
+.founders {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.foundersBg{
+    background-color: #f5f5f5;
+    width: 370px;
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.founderName{
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.founderProfessia{
+font-size: 16px;
+font-family: "Poppins";
+font-weight: 400;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.socialLinks{
+    justify-content: space-between;
+    display: flex;
+    width: 28%;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.founderInstagram{
+    font-weight: 400;
+}

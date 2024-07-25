@@ -1,0 +1,249 @@
+
+@media screen and (max-width: 1353px) {
+    #image {
+      width: 720px;
+      height: 630px;
+    }
+  
+    #login-text-items {
+      margin-left: 12%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 1301px) {
+    #image {
+      width: 650px;
+      height: 555px;
+    }
+  
+    #login-text-items {
+      margin-left: 9%;
+    }
+  }
+  
+  
+  
+  @media screen and (max-width: 1171px) {
+    #image {
+      width: 590px;
+      height: 545px;
+    }
+  
+  
+    #login-text-items {
+      margin-left: 7%;
+    }
+  }
+  
+  
+  
+  @media screen and (max-width: 1066px) {
+    #image {
+      width: 510px;
+      height: 485px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 983px) {
+    #image {
+      width: 450px;
+      height: 415px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 891px) {
+    #image {
+      width: 410px;
+      height: 365px;
+    }
+  
+    #login-items-text {
+      font-size: 28px;
+    }
+  }
+
+  @media screen and (max-width: 881px) {
+    #login-items-text {
+      font-size: 25px;
+    }
+
+    #login-p{
+      font-size: 13px;
+    }
+
+    #forget-pass{
+      font-size: 11px;
+    }
+
+    #login-btn{
+      font-size: 15px;
+    }
+
+  }
+
+  @media screen and (max-width: 757px) {
+    #image {
+      width: 375px;
+      height: 340px;
+    }
+
+    #login-items-text {
+      font-size: 23px;
+    }
+
+    #login-p{
+      font-size: 12px;
+    }
+
+    #forget-pass{
+      font-size: 10px;
+    }
+
+    #login-btn{
+      font-size: 14px;
+    }
+
+  }
+
+  @media screen and (max-width: 675px) {
+    #image {
+      width: 330px;
+      height: 305px;
+    }
+
+   #login-text-items{
+    margin-left: 5%;
+   }
+
+    #login-items-text {
+      font-size: 22px;
+    }
+
+    #forget-pass{
+      font-size: 9px;
+    }
+
+    #login-btn{
+      font-size: 13px;
+    }
+
+  }
+
+  @media screen and (max-width: 590px) {
+    #image {
+      width: 295px;
+      height: 280px;
+    }
+
+    #login-items-text {
+      font-size: 19px;
+    }
+
+    #login-p{
+      font-size: 10px;
+    }
+
+    #login-input{
+      font-size: 11px;
+    }
+
+    #forget-pass{
+      font-size: 8px;
+    }
+
+    #login-btn{
+      font-size: 12px;
+    }
+
+  }
+
+  @media screen and (max-width: 515px) {
+    #image {
+      width: 255px;
+      height: 245px;
+    }
+
+    #login-items-text {
+      font-size: 18px;
+    }
+
+    #login-btn{
+      
+      font-size: 11px;
+    }
+
+    #forget-pass{
+      font-size: 7px;
+    }
+
+  }
+
+  @media screen and (max-width: 467px) {
+    #image {
+      width: 223px;
+      height: 217px;
+    }
+
+    #login-items-text {
+      font-size: 16px;
+    }
+
+    #login-p{
+      font-size: 9px;
+    }
+
+    #login-btn{
+      font-size: 10px;
+    }
+
+    #forget-pass{
+      font-size: 6px;
+    }
+
+    #login-input{
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    #image {
+     display: none;
+    }
+
+    #login-text-items {
+    margin-left: 32%;
+    margin-top: 3%;  
+    }
+
+   #login-btn{
+    font-size: 8px;
+   }
+
+    #forget-pass{
+      font-size: 7px;
+    }
+
+  }
+
+  @media screen and (max-width: 400px) {
+    #image {
+     display: none;
+    }
+
+    #login-text-items {
+    margin-left: 27%;
+    margin-top: 3%;  
+    }
+
+   #login-btn{
+    font-size: 8px;
+   }
+
+    #forget-pass{
+      font-size: 7px;
+    }
+
+  }

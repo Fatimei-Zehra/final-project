@@ -1,0 +1,22 @@
+.Error{
+  text-align: center;
+}
+
+.ErrorH1{
+ font-size: 90px; 
+ margin-top: 10%;  
+}
+
+.ErrorP{
+ margin-top: 3%;   
+}
+
+.Errorbtn{
+    margin-top: 7%;
+    padding: 16px 48px;
+    border-radius: 4px;
+    background-color: #DB4444;
+    color: #fff;
+    border: none;
+
+}
